@@ -1,5 +1,8 @@
 # A simple group chat application using Java
 
+### A demo with three users in the group chat
+![groupchat](images/client_server.gif)
+
 ### background
 * A GUI application for studying client-server, socket, threadpool, and concurrency
     - It uses java swing to create user interface, and applies client-server to support multi-users group chat.
@@ -40,7 +43,5 @@
     - support multiple users join, leave, and rejoin
     ![userLeave](images/clientserver22.png)
 
-### A demo with three users in the group chat
-![groupchat](images/client_server.gif)
 
 ### Happy exploring! Star if you like it!
